@@ -1,0 +1,3 @@
+I did not invent this, it says it on the official Offsec website and oh man, they are not kidding!
+
+![oscp_1](/images/oscp1.png)
